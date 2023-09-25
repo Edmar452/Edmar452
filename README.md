@@ -2,7 +2,7 @@
 <a href = "mailto: edmar.augusto02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ed_a_martins?utm_source=qr&igshid=MThlNWY1MzQwNA==)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdmarAM) ** (Perfil Profissional) **
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdmarAM) **(Perfil Profissional)**
 
 ![Edmar A. GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmar452&show_icons=true&theme=dracula)
 
